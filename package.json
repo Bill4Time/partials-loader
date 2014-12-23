@@ -3,7 +3,7 @@
   "author": "Logan Knecht",
   "main": "lib/index.js",
   "description": "Partials loader is a node module to faciliate the registering of partials with a respective template engine.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -35,6 +35,10 @@
     {
       "name": "jzon",
       "email": "jeremydiviney@gmail.com"
+    },
+    {
+      "name": "windhandel",
+      "email": "jeff@goaldriven.com"
     }
   ]
 }
