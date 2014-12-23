@@ -1,0 +1,40 @@
+{
+  "name": "partials-loader",
+  "author": "Logan Knecht",
+  "main": "lib/index.js",
+  "description": "Partials loader is a node module to faciliate the registering of partials with a respective template engine.",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bill4Time/partials-loader"
+  },
+  "keywords": [
+    "node",
+    "template-engine",
+    "partials",
+    "loader"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bill4Time/partials-loader/issues"
+  },
+  "homepage": "https://github.com/Bill4Time/partials-loader",
+  "dependencies": {
+    "fs-helper": "^0.1.0",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {},
+  "maintainers": [
+    {
+      "name": "loganknecht",
+      "email": "loganknecht@gmail.com"
+    },
+    {
+      "name": "jzon",
+      "email": "jeremydiviney@gmail.com"
+    }
+  ]
+}
