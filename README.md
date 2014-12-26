@@ -5,6 +5,15 @@ This is a node module to help facilitate registering partials with their respect
 
 This means that when using this module you will be able to reference partials in your templates directory by providing the relative path from your template directory to the partial being loaded and handlebars will be aware of it.
 
+## Installation
+```javascript
+// to install in the local directory
+npm install partials-loader
+
+// to install in the local directory and save to the package.json
+npm install partials-loader --save
+```
+
 ## Example Usage
 
 First, pretend that we have a folder called  
