@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Bill4Time/partials-loader",
   "dependencies": {
+    "debug": "^3.1.0",
     "fs-helper": "^0.1.0",
     "lodash": "^2.4.1"
   },
